@@ -1,0 +1,8 @@
+{
+	"name": "automatic-api-demo",
+	"version": "0.0.1",
+	"dependencies": {
+		"promix": "0.1.x",
+		"acolyte": "0.0.x"
+	}
+}

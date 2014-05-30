@@ -1,0 +1,85 @@
+[
+	{
+		"id": 1,
+		"name": "Remy's Salty Shims",
+		"calories": 325,
+		"price": 225,
+		"description": "Delicious salty shimcakes dipped in a light layer of polyfill",
+		"ingredients": [
+			"shims",
+			"polyfills",
+			"butter",
+			"sugar"
+		]
+	},
+	{
+		"id": 2,
+		"name": "Cowboy's Immediately Invoked Fries",
+		"calories": 550,
+		"price": 350,
+		"description": "Our fries are never 'self-executing'! Enjoy our trademark flavor and distinct taste without all the unhealthy globals",
+		"ingredients": [
+			"potatoes",
+			"oil",
+			"accepted boilerplate"
+		]
+	},
+	{
+		"id": 3,
+		"name": "The Original ECMABurger",
+		"calories": 885,
+		"price": 765,
+		"description": "It's the original! Traditional Angus beef slow broiled by consensus then aged 5 years in public opinion",
+		"ingredients": [
+			"beef",
+			"tomato",
+			"cheese",
+			"lettuce",
+			"onions",
+			"pickles",
+			"sesame bun",
+			"google"
+		]
+	},
+	{
+		"id": 4,
+		"name": "AST BLT",
+		"calories": 925,
+		"price": 805,
+		"description": "Treat the CS student in you with our new AST BLT!",
+		"ingredients": [
+			"bacon",
+			"lettuce",
+			"tomato",
+			"mayo",
+			"rye",
+			"esprima"
+		]
+	},
+	{
+		"id": 5,
+		"name": "Hapi Pati Melt",
+		"calories": 775,
+		"price": 675,
+		"description": "Configure the perfect Hapi Pati by adding tomato, lettuce, or caching (where available). Deliciously extensible!",
+		"ingredients": [
+			"beef patty",
+			"rye",
+			"cheese",
+			"rest"
+		]
+	},
+	{
+		"id": 6,
+		"name": "V8 Shake",
+		"calories": 485,
+		"price": 375,
+		"description": "You're 'just-in-time' to enjoy our new signature V8 shake, jam-packed with compile-time optimizations and inlined nutrients",
+		"ingredients": [
+			"tomato juice",
+			"fruit juice",
+			"milk",
+			"assembly"
+		]
+	}
+]

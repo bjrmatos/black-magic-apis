@@ -1,0 +1,9 @@
+{
+	"name": "black-magic-apis",
+	"description": "A talk about doing terrible things in pursuit of the perfect API",
+	"version": "0.0.1",
+	"dependencies": {
+		"charm": "0.2.x",
+		"picture-tube": "0.0.x"
+	}
+}

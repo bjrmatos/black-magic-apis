@@ -1,0 +1,12 @@
+{
+  "name": "carrier",
+  "version": "0.0.1",
+  "description": "\"A landing platform that communicates with the world via a simple REST API\"",
+  "main": "index.js",
+  "dependencies": {
+	"sorcerer": "0.0.x",
+	"minimist": "0.1.x"
+  },
+  "author": "pachet",
+  "license": "MIT"
+}
